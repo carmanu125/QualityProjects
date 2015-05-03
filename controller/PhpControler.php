@@ -7,10 +7,10 @@
  */
 
 /**
- * Description of BDConector
+ * Description of PhpControler
  *
  * @author Carmanu
  */
-class BDConector {
+class PhpControler {
     //put your code here
 }
